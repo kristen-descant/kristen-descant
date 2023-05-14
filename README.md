@@ -1,3 +1,6 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kristen-descant&theme=cobalt&border_radius=)](https://git.io/streak-stats)
+
+
 ### Hi there 👋
 
 <!--
