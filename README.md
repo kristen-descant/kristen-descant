@@ -1,7 +1,11 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kristen-descant&theme=radical&border_radius=)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristen-descant&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kristen-descant&theme=radical&border_radius=)](https://git.io/streak-stats)   
 
 
-### Hi there 👋
+About Me:
+
+Student at Code Platoon. Future developer in the making. 
+
+My goal after school is to be hired as a Junior Developer and a continue to get better. I love learning and I am having so much fun in the process of becoming a Full Stack Software Engineer.
 
 <!--
 **kristen-descant/kristen-descant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristen-descant&show_icons=true&theme=radical)
+
