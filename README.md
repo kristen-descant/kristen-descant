@@ -17,7 +17,6 @@ Feel free to reach out to me via LinkedIn or email at kristendescant01@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen-descant&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-My goal after school is to be hired as a Junior Developer and a continue to get better. I love learning and I am having so much fun in the process of becoming a Full Stack Software Engineer.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kristen-descant&theme=radical&border_radius=)](https://git.io/streak-stats)   
 
