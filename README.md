@@ -13,7 +13,7 @@ About Me:
 
 🌟 I'm excited to contribute my skills and passion to the dynamic world of software engineering. If you're seeking an enthusiastic team player who combines adaptability, technical prowess, and a proven commitment to growth, I'd love to connect!
 
-Feel free to reach out to me via LinkedIn or email at kristendescant01@gmail.com. Let's explore how my journey and skills can add value to your team and projects.
+Feel free to reach out to me via LinkedIn - www.linkedin.com/in/kristen-descant or email at kristendescant01@gmail.com. Let's explore how my journey and skills can add value to your team and projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen-descant&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
